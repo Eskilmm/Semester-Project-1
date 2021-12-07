@@ -31,7 +31,7 @@ nav img {
     position: relative;
 }
 .nav-links ul li a{
-    color: #fff;
+    color: #00008b;
     text-decoration: none;
     font-size: 14px;
 }
@@ -102,4 +102,3 @@ nav img {
         z-index: 2;
     }
  }
- 

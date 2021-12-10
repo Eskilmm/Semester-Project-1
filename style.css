@@ -186,3 +186,15 @@ h3{
 .dif-activities img{
     width: 100%;
 }
+.layer{
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+}
+.layer:hover{
+    background:rgba(151, 151, 243, 0.7); 
+}

@@ -215,3 +215,21 @@ h3{
     bottom: 49%;
     opacity: 1;
 }
+/*---Companies---*/
+
+.company{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.company-activities{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.company-activities img{
+    width: 100%;
+    border-radius: 10px;
+}

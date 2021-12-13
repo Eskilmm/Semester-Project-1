@@ -293,3 +293,7 @@ h3{
     border-radius: 10px;
     padding: 100px 0;
 }
+.tickets h1{
+    text-align: center;
+    color: #fff;
+}

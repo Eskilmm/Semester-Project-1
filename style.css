@@ -85,7 +85,7 @@ nav img {
     background: #fff;
     transition: 1s;
  }
- nav .fa{
+ .nav .fa{
      display: none;
  }
  /* media, small screen devices */
@@ -110,7 +110,7 @@ nav img {
     }
     nav .fa{
         display: block;
-        color: #00008b;
+        color: #fff;
         margin: 10px;
         font-size: 22px;
         cursor: pointer;
@@ -272,4 +272,14 @@ h3{
 }
 .feedback-text p{
     padding: 0;
+}
+.feedback-text h3{
+    margin-top: 15px;
+    text-align: left;
+}
+@media(max-width: 700){
+    .feedback-text img{
+    margin-left: 0px;
+    margin-right: 15px;
+}
 }

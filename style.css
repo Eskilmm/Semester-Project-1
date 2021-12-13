@@ -296,4 +296,23 @@ h3{
 .tickets h1{
     text-align: center;
     color: #fff;
+    margin-bottom: 40px;
+    padding: 0;
+}
+.ticket-btn{
+        display: inline-block;
+        text-decoration: none;
+        color: #fff;
+        border: 1px solid #00008b;
+        padding: 14px 34px;
+        font-size: 13px;
+        background: transparent;
+        position: relative;
+        cursor: pointer;
+    }
+   
+    .ticket-btn:hover{
+       border: 1px solid #00008b;
+       background: lightblue;
+       transition: 1s;
 }

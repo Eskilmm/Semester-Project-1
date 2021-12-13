@@ -82,7 +82,7 @@ nav img {
 
  .visit.btn:hover{
     border: 1px solid #00008b;
-    background: #fff;
+    background: lightblue;
     transition: 1s;
  }
  .nav .fa{

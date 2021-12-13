@@ -291,6 +291,7 @@ h3{
     background-position: center;
     background-size: cover;
     border-radius: 10px;
+    text-align: center;
     padding: 100px 0;
 }
 .tickets h1{

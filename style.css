@@ -35,6 +35,7 @@ nav img {
     color: #00008b;
     text-decoration: none;
     font-size: 14px;
+    font-weight: bold;
 }
 .nav-links ul li::after {
     content: "";

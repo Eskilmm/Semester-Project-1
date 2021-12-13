@@ -312,7 +312,7 @@ h3{
     }
    
     .ticket-btn:hover{
-       border: 1px solid #00008b;
+       border: 1px solid #ffffff;
        background: lightblue;
        transition: 1s;
 }

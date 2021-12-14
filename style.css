@@ -72,8 +72,8 @@ nav img {
  .visit-btn{
      display: inline-block;
      text-decoration: none;
-     color: #00008b;
-     border: 1px solid #00008b;
+     color: #000000;
+     border: 1px solid #000000;
      padding: 14px 34px;
      font-size: 13px;
      background: transparent;
@@ -82,8 +82,8 @@ nav img {
  }
 
  .visit.btn:hover{
-    border: 1px solid #00008b;
-    background: lightblue;
+    border: 1px solid #000000;
+    background: rgb(174, 231, 250);
     transition: 1s;
  }
  .nav .fa{
@@ -341,7 +341,7 @@ h3{
 
 /*--- ABOUT US---*/
 .sub-header{
-    height: 50vh;
+    height: 60vh;
     width: 100%;
     background-image:linear-gradient(rgba(218, 224, 247, 0.7), rgba(218, 224, 247, 0.7)), url(/media/about.jpg) ;
     background-position: center;

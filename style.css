@@ -305,7 +305,7 @@ h3{
 .ticket-btn{
         display: inline-block;
         text-decoration: none;
-        color: #fff;
+        color: lightblue;
         border: 1px solid #ffffff;
         padding: 14px 34px;
         font-size: 13px;
@@ -395,5 +395,5 @@ margin: 15px 0;
 box-sizing: border-box;
 border: none;
 outline: none;
-background: lightgray;
+background: rgb(207, 207, 207);
 }

@@ -35,7 +35,7 @@ nav img {
 .nav-links ul li a{
     color: #000000;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: bold;
 }
 .nav-links ul li::after {
@@ -378,4 +378,22 @@ h3{
     border: 1px solid rgb(0, 0, 0) ;
     background:rgba(151, 151, 243, 0.7);
     color: #000000
+}
+
+.order{
+    border: 1px solid #ccc;
+    margin: 50px 0;
+    padding: 10px 20px;
+}
+.order h3{
+    text-align: left;
+}
+.order-form input, .order-form textarea{
+width: 100%;
+padding: 10px;
+margin: 15px 0;
+box-sizing: border-box;
+border: none;
+outline: none;
+background: lightgray;
 }

@@ -72,8 +72,8 @@ nav img {
  .visit-btn{
      display: inline-block;
      text-decoration: none;
-     color: #000000;
-     border: 1px solid #000000;
+     color: #ffffff;
+     border: 1px solid #ffffff;
      padding: 14px 34px;
      font-size: 13px;
      background: transparent;
@@ -347,7 +347,7 @@ h3{
     background-position: center;
     background-size: cover;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .sub-header h1{

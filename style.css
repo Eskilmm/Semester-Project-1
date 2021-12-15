@@ -305,11 +305,11 @@ h3{
 .ticket-btn{
         display: inline-block;
         text-decoration: none;
-        color: rgb(0, 0, 0);
-        border: 1px solid #000000;
+        color: rgb(255, 255, 255);
+        border: 1px solid #ffffff;
         padding: 14px 34px;
         font-size: 13px;
-        background: rgba(151, 151, 243, 0.7);
+        background:transparent;
         position: relative;
         cursor: pointer;
     }
@@ -388,6 +388,19 @@ h3{
 .order h3{
     text-align: left;
 }
+
+.order-btn{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border: 1px solid #000000;
+    padding: 14px 34px;
+    font-size: 13px;
+    background: rgba(151, 151, 243, 0.7);
+    position: relative;
+    cursor: pointer;
+}
+
 .order-form input, .order-form textarea{
 width: 100%;
 padding: 10px;

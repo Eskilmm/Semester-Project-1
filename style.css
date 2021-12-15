@@ -305,11 +305,11 @@ h3{
 .ticket-btn{
         display: inline-block;
         text-decoration: none;
-        color: lightblue;
-        border: 1px solid #ffffff;
+        color: rgb(0, 0, 0);
+        border: 1px solid #000000;
         padding: 14px 34px;
         font-size: 13px;
-        background: transparent;
+        background: rgba(151, 151, 243, 0.7);
         position: relative;
         cursor: pointer;
     }

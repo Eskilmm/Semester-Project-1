@@ -429,3 +429,21 @@ background: rgb(207, 207, 207);
     margin: 30px 0;
 
 }
+.upcoming{
+    flex-basis: 32%;
+}
+.upcoming h3{
+    background:rgba(151, 151, 243, 0.7);
+    color:black;
+    padding: 7px 0;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.upcoming div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+    padding: 8px;
+    box-sizing: border-box;
+}

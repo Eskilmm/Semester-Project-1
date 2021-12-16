@@ -15,7 +15,7 @@ nav{
     display: flex;
     padding: 2% 8%;
     justify-content: space-between;
-    align-items: center;
+    align-items: centr;
 }
 nav img {
     width: 150px;
@@ -29,7 +29,7 @@ nav img {
 .nav-links ul li{
     list-style: none;
     display: inline-block;
-    padding: 8px 12px;
+    padding: 6px 12px;
     position: relative;
 }
 .nav-links ul li a{
@@ -39,6 +39,7 @@ nav img {
     font-weight: bold;
 }
 .nav-links ul li::after {
+    content: "";
     width: 0%;
     height: 2px;
     background: #ffffff;

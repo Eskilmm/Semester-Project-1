@@ -441,7 +441,7 @@ background: rgb(207, 207, 207);
 .visit-details div{
     display: flex;
     align-items: center;
-    margin: 40px;
+    margin: 30px;
 }
 .visit-details .fa{
     font-size: 28px;

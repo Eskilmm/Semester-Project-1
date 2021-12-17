@@ -429,3 +429,23 @@ background: rgb(207, 207, 207);
 .visit img{
     width: 100%;
 }
+.visit-here{
+    width: 80%;
+    margin: auto;
+}
+
+.visit-details{
+    flex-basis: 48%;
+    margin-bottom: 32px;
+}
+.visit-details div{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.visit-details .fa{
+    font-size: 28px;
+    color: rgba(151, 151, 243, 0.7);
+    margin: 10px;
+    margin-right: 30px;
+}

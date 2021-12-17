@@ -91,7 +91,7 @@ nav .fa{
     transition: 1s;
  }
  
- }
+ 
  /* media, small screen devices */
 
  @media(max-width: 700px){
@@ -103,7 +103,7 @@ nav .fa{
     }
     .nav-links{
         position: fixed;
-        backgroun:#9797F3;
+        background:#9797F3;
         height: 100vh;
         width: 200px;
         top: 0;

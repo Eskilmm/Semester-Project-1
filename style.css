@@ -87,7 +87,7 @@ nav .fa{
 
  .visit.btn:hover{
     border: 1px solid #000000;
-    background: rgba(151, 151, 243, 0.7);
+    background: #9797F3;
     transition: 1s;
  }
  
@@ -103,7 +103,7 @@ nav .fa{
     }
     .nav-links{
         position: fixed;
-        background: rgba(151, 151, 243, 0.7);
+        backgroun:#9797F3;
         height: 100vh;
         width: 200px;
         top: 0;
@@ -136,7 +136,7 @@ nav .fa{
  }
 
  p{
-     color: rgb(0, 0, 0);
+     color: #000;
      font-size: 36px;
      font-size: 14px;
      font-weight: 500;
@@ -151,7 +151,7 @@ nav .fa{
 }
 .dif-areas{
     flex-basis: 32%;
-    background: rgba(151, 151, 243, 0.7);
+    background:#9797F3;
     border-radius: 10px;
     margin-bottom: 5%;
 }
@@ -203,7 +203,7 @@ h3{
     transition: 0.5s;
 }
 .layer:hover{
-    background:rgba(151, 151, 243, 0.7); 
+    background:#9797F3; 
 }
 .layer h3{
     width: 100%;
@@ -271,7 +271,7 @@ h3{
 .ticket-btn{
         display: inline-block;
         text-decoration: none;
-        color: rgb(255, 255, 255);
+        color:#fff;
         border: 1px solid #ffffff;
         padding: 14px 34px;
         font-size: 13px;
@@ -281,8 +281,8 @@ h3{
     }
    
     .ticket-btn:hover{
-       border: 1px solid #ffffff;
-       background: rgba(151, 151, 243, 0.7);
+       border: 1px solid #fff;
+       background:#9797F3;
        transition: 1s;
 }
 @media(max-width: 700px){
@@ -306,7 +306,7 @@ h3{
 }
 .icons.fa{
     font-size: 28px;
-    color:rgba(151, 151, 243, 0.7);
+    color:#9797F3;
     margin: 4 13px;
     cursor: pointer;
     padding:18px 0;
@@ -323,7 +323,7 @@ h3{
 }
 .footer-details .fa{
     font-size: 28px;
-    color: rgba(151, 151, 243, 0.7);
+    color: #9797F3;
     margin: 10px;
     margin-right: 30px;
 }
@@ -339,7 +339,7 @@ h3{
     background-position: center;
     background-size: cover;
     text-align: center;
-    color: rgb(255, 255, 255);
+    color:#FFF;
 }
 
 .sub-header h1{
@@ -368,8 +368,8 @@ h3{
     line-height: 30px;
 }
 .blue-btn{
-    border: 1px solid rgb(0, 0, 0) ;
-    background:rgba(151, 151, 243, 0.7);
+    border: 1px solid #000 ;
+    background:#9797F3;
     color: #000000
 }
 
@@ -389,7 +389,7 @@ h3{
     border: 1px solid #000000;
     padding: 14px 34px;
     font-size: 13px;
-    background:lightblue;
+    background:#9797F3;
     position: relative;
     cursor: pointer;
 }
@@ -401,7 +401,7 @@ margin: 15px 0;
 box-sizing: border-box;
 border: none;
 outline: none;
-background: rgb(207, 207, 207);
+background:#cccc;
 }
 
 .program{
@@ -416,7 +416,7 @@ background: rgb(207, 207, 207);
     width: 100%;
 }
 .program-list h2{
-    color: rgb(0, 0, 0);
+    color:#000;
     font-weight: 600;
     margin: 30px 0;
 
@@ -425,7 +425,7 @@ background: rgb(207, 207, 207);
     flex-basis: 32%;
 }
 .upcoming h3{
-    background:rgba(151, 151, 243, 0.7);
+    background:#9797F3;
     color:black;
     padding: 7px 0;
     font-size: 18px;
@@ -435,7 +435,7 @@ background: rgb(207, 207, 207);
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color: black;
+    color:#000;
     padding: 8px;
     box-sizing: border-box;
 }
@@ -464,7 +464,7 @@ background: rgb(207, 207, 207);
 }
 .visit-details .fa{
     font-size: 28px;
-    color: rgba(151, 151, 243, 0.7);
+    color: #9797F3;
     margin: 10px;
     margin-right: 30px;
 }

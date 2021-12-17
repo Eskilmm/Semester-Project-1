@@ -99,7 +99,7 @@ nav img {
         display: block;
     }
     .nav-links{
-        position: absolute;
+        position: fixed;
         background: rgba(151, 151, 243, 0.7);
         height: 100vh;
         width: 200px;
@@ -372,7 +372,7 @@ h3{
 }
 
 .order{
-    border: 1px solid #ccc;
+    border: 1px solid #cccc;
     margin: 50px 0;
     padding: 10px 20px;
 }
@@ -465,4 +465,21 @@ background: rgb(207, 207, 207);
     color: rgba(151, 151, 243, 0.7);
     margin: 10px;
     margin-right: 30px;
+}
+.visit-details p{
+    padding: 0;
+}
+.visit-details h5{
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+}
+
+.visit-details input, .visit-details textarea{
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 17px;
+    outline: none;
+    border: 1px solid #cccc;
 }

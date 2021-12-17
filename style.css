@@ -439,7 +439,6 @@ background: rgb(207, 207, 207);
     margin-bottom: 32px;
 }
 .visit-details div{
-    display: flex;
     align-items: center;
     margin-bottom: 40px;
 }

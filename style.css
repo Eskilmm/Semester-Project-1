@@ -50,6 +50,10 @@ nav img {
 .nav-links ul li:hover::after{
     width: 100%;
 }
+nav .fa{
+    display: none;
+}
+
 .front-page {
     width: 90%;
     color: #ffffff;
@@ -86,8 +90,7 @@ nav img {
     background: rgba(151, 151, 243, 0.7);
     transition: 1s;
  }
- .nav .fa{
-     display: none;
+ 
  }
  /* media, small screen devices */
 
